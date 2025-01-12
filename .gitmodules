@@ -1,0 +1,9 @@
+[submodule "executor"]
+	path = executor
+	url = https://github.com/DistributedDataAggregation/ExecutorApp.git
+[submodule "controller"]
+	path = controller
+	url = https://github.com/DistributedDataAggregation/ControllerApp.git
+[submodule "setup"]
+	path = setup
+	url = https://github.com/DistributedDataAggregation/TestingSetup.git
